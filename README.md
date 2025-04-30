@@ -1,1 +1,6 @@
-# uts_web2
+# UTS PEMROGRAMAN WEB 2
+```
+Sartika Agustin
+312310174
+TI.23.A2
+```
